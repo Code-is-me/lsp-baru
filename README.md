@@ -1,2 +1,2 @@
 # lsp-baru
-new new i am wrking on it 
+new code i am still working on 
